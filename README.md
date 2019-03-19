@@ -1,2 +1,3 @@
 # hello_world
 It's my first try to create a repository
+If you see this repository, don't pay much attention on it. I'm studing how to use GitHub. It will be cool if my work will be useful for someone. So, let's start...
